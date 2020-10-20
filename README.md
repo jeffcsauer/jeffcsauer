@@ -8,7 +8,7 @@ Feel free to email me at: [jcsauer@terpmail.umd.edu](jcsauer@terpmail.umd.edu) :
 
 #### Projects
 
-- 🚀 [`arcospy`](https://github.com/jeffcsauer/arcospy): a python translation of the R `arcos` package to access the massive DEA ARCOS dataset from 2006 to 2012.
+- 🚀 [`arcospy`](https://github.com/jeffcsauer/arcospy): a python translation of the R `arcos` package to access the massive DEA ARCOS dataset from 2006 to 2012. Available via PyPI! [*Journal of Open Source Software (JOSS)* paper describing implementation](https://joss.theoj.org/papers/10.21105/joss.02450).
 - 💻 [Google Summer of Code 2020 - Python Spatial Analysis Library (PySAL)](https://github.com/jeffcsauer/GSOC2020): link to my implementation of several spatial statistics (Local spatial heteroskedasticity, Multi/bivariate local join counts, Local Geray statistics) for one of the largest python spatial analysis libraries.
 - :globe_with_meridians: [COVID-19 Tracker made alongside fellow CGIS teammates](https://mgzjys.github.io/US_Covid19_Index/): made in the early days of the COVID-19 pandemic. Assisted in gathering, scraping, and cleaning data. Team: Junchuan Fan, Hai Lan, Yao Li, Jeff Sauer, Zhiyue Xia, and Guiming Zhu. 
 - :bird: Twitter project upcoming!
