@@ -2,7 +2,7 @@
 
 My name is Jeff Sauer (he/him) and I am a quantitative modeler, spatial data scientist, and researcher. Outside of work I am an avid reader and fan of nature walks. Most recent book suggestion: *Dear Friend, from My Life I Write to You in Your Life* by Yiyun Li. :blue_book:  
 
-Links to: [personal website](jeffcsauer.github.io), [departmental website](https://geog.umd.edu/gradprofile/sauer/jeffery-%28jeff%29), [LinkedIn](https://www.linkedin.com/in/jeffcsauer/), [Google Scholar](https://scholar.google.com/citations?user=vML9xMUAAAAJ&hl=en)
+Links to: [departmental website](https://geog.umd.edu/gradprofile/sauer/jeffery-%28jeff%29), [LinkedIn](https://www.linkedin.com/in/jeffcsauer/), [Google Scholar](https://scholar.google.com/citations?user=vML9xMUAAAAJ&hl=en)
 
 Feel free to email me at: [jcsauer@terpmail.umd.edu](jcsauer@terpmail.umd.edu) :email:
 
